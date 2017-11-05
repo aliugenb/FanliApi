@@ -1,0 +1,11 @@
+nosetests test.py --with-html --html-report=nose_report.html --html-report-template=src/nose_htmlreport/templates/report2.jinja2
+
+setup_module/teardown_module      在所有测试用例执行之后和之后执行。
+
+setup_function/teardown_function    在每个测试用例之后和之后执行。
+
+setup_class/teardown_class  在当前测试类的开始与结束执行。
+
+setup/teardown                   在每个测试方法开始与结束执行。
+
+setup_method/teardown_method     在每个测试方法开始与结束执行，与setup/teardown级别相同。

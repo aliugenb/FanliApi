@@ -1,0 +1,1 @@
+{"data":{"key":"1472126400_323","allow":1,"tip":"提醒设置成功\n抢购开始前${aheadMin}分钟提醒您购买哦！","tipArgs":{"aheadMin":15},"pushTime":1472125500,"pushMessage":"您订阅的【${brandName}】超级返特卖即将在20:00开始，立即查看！"},"status":"1","info":"成功"}

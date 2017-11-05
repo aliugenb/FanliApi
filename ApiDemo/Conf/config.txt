@@ -1,0 +1,3 @@
+ios_header={'User-Agent': 'Fanli/5.6.0.28 (iPhone; iPhone OS 10.1; zh_CN; ID:1-6798630-68696270745943-17-2)'}
+and_header={'User-Agent': 'Fanli/5.4.1.12 (nubia NX529J; Android 5.1.1; zh_CN; ID:2-42935722-68397186055629-1-0'}
+getResource_keys = {'unchange':['taobao_url_rule', 'webview_exception_monitor', 'taobao_app_key']}
